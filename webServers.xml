@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8ec3ead1-d2ba-4e5d-8a59-5a7c2b8c0bd6" name="vassuvru" url="http://185.84.108.232">
+        <fileTransfer host="185.84.108.232" port="21" rootFolder="/vassuvru">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
